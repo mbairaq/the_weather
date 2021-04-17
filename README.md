@@ -39,3 +39,8 @@ $ python manage.py migrate
 
 * Visit [localhost:8000](http://127.0.0.1:8000/) in your browser to see how it looks.
 
+# Screenshot
+
+![MB WEATHER WEB SITE](https://github.com/mbairaq/the_weather/blob/master/Screenshot_20210417-235105_Chrome.jpg)
+
+![MB WEATHER WEB SITE](https://github.com/mbairaq/the_weather/blob/master/Screenshot_20210417-235133_Chrome.jpg)
