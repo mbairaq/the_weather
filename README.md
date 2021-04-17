@@ -44,3 +44,8 @@ $ python manage.py migrate
 ![MB WEATHER WEB SITE](https://github.com/mbairaq/the_weather/blob/master/Screenshot_20210417-235105_Chrome.jpg)
 
 ![MB WEATHER WEB SITE](https://github.com/mbairaq/the_weather/blob/master/Screenshot_20210417-235133_Chrome.jpg)
+
+
+### Notes
+#### The original project was published by:
+@github/PrettyPrinted 
